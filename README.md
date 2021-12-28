@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rt1shnik)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **rt1shnik/rt1shnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
